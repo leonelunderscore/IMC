@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="txt_fullname_str">Nom complet</string>
+    <string name="txt_app_msg_val">CALCULEZ VOTRE IMC</string>
+    <string name="txt_taille_str">Taille en cm</string>
+    <string name="txt_poids_str">Poids en kg</string>
+    <string name="btn_refresh_txt">Rafraichir</string>
+    <string name="btn_calculate_txt">Calculer</string>
+
+
+    <string-array name="status">
+        <item>Marié</item>
+        <item>Célibataire</item>
+    </string-array>
+
+    <string-array name="sexes">
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

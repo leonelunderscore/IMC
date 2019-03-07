@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Consulter les logs" android:id="@+id/log_consult" app:showAsAction="never"/>
+    <item android:title="Vider la BD" android:id="@+id/drop_db" app:showAsAction="always" android:icon="@drawable/ic_delete" />
+</menu>
